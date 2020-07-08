@@ -24,6 +24,7 @@ module.exports = {
             },
         ],
         '@typescript-eslint/indent': 'off', // prettier takes care of it
+        'curly': 'error',
     },
     env: {
         browser: true,
